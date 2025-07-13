@@ -2,7 +2,7 @@
 
 This repository contains my final assignment notebook for the **Data Science Tools and Ecosystem** module.
 
-## 📚 Description
+##  Description
 
 In this notebook, key concepts of the Data Science ecosystem are summarized.  
 It includes:
@@ -13,18 +13,18 @@ It includes:
 - Examples of arithmetic expressions evaluated in Python.
 - Conversion of minutes to hours using Python code.
 
-## 🏆 Objectives
+##  Objectives
 
 - Learn to create and format Markdown cells in Jupyter Notebook.
 - Learn to write and run Python code cells.
 - Practice basic arithmetic operations.
 - Save and share a Jupyter Notebook via GitHub.
 
-## ✍️ Author
+##  Author
 
 **Ester Parolari**
 
-## 📂 File
+##  File
 
 - `DataScienceEcosystem.ipynb` – The completed Jupyter Notebook.
 
