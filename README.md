@@ -28,6 +28,6 @@ It includes:
 
 - `DataScienceEcosystem.ipynb` – The completed Jupyter Notebook.
 
-## 🔗 How to view
+##  How to view
 
 You can view the notebook directly in GitHub or download it and open it locally with Jupyter Notebook, JupyterLab, or any compatible environment.
